@@ -19,7 +19,7 @@
 
   <p align="center">
     A genearlization of a cyber-security SIEM.
-    A platform to connect to firehoses of JSON logs and filter, standardize, tag and act.
+    A platform to connect to firehoses of JSON logs and filter, enrich, standardize, tag and act.
     <br />
     <a href="https://github.com/sparling1028/log-rules"><strong>Explore the docs »</strong></a>
     <br />
